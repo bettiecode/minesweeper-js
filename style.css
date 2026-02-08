@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "VCR OSD Mono";
+    src: url("vcr_osd_mono.ttf");
+}
+
+body
+{
+    background-color: black;
+    color: mediumspringgreen;
+}
+#minesweeper
+{
+    width: 64px;
+    height: 64px;
+    border: solid 1px mediumspringgreen;
+    display: block;
+    margin: auto;
+}
