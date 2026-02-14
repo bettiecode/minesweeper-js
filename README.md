@@ -22,7 +22,7 @@ After the container(so the script can find it), you should put the linked script
     <div id="minesweeperContainer"> <!--id property-->
 
     </div>
-    <script src="minesweeper.js"> <!--relative path to file-->
+    <script src="minesweeper.js"></script> <!--relative path to file-->
 
 ### Editing properties
 For this, you will need to go inside `minesweeper.js`.
