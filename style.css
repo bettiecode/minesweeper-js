@@ -8,7 +8,7 @@ body
     background-color: black;
     color: mediumspringgreen;
 }
-#minesweeper
+#minesweeperContainer
 {
     width: 64px;
     height: 64px;
